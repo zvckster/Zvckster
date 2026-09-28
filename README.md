@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1000&color=B08D6E&center=true&vCenter=true&width=560&height=40&lines=SIEM+architecture+at+production+scale;Decoders%2C+integrations%2C+detections;Agentic+security+automation;Wazuh+Ambassador" alt="Typing SVG"/>
-
 <a href="https://aymanwadi.me"><img src="https://img.shields.io/badge/Portfolio-aymanwadi.me-14151f?style=for-the-badge&logo=googlechrome&logoColor=ecedef" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ayman-wadi/"><img src="https://img.shields.io/badge/LinkedIn-ayman--wadi-333643?style=for-the-badge&logo=linkedin&logoColor=ecedef" alt="LinkedIn"/></a>
 <a href="https://www.reddit.com/user/Zvckster/"><img src="https://img.shields.io/badge/Reddit-Zvckster-4c4d5a?style=for-the-badge&logo=reddit&logoColor=ecedef" alt="Reddit"/></a>
